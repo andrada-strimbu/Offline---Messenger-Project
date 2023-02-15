@@ -1,0 +1,72 @@
+{
+   "conversatii" : [
+
+      {
+         "mesaj" : "buna ziua!",
+         "username1" : "andrada",
+         "username2" : "mark"
+      },
+      {
+         "mesaj" : "buna!",
+         "username1" : "mari",
+         "username2" : "mark"
+      },
+      {
+         "mesaj" : "buna ziua!",
+         "username1" : "andrada",
+         "username2" : "mari"
+      },
+      {
+         "mesaj" : "buna!",
+         "username1" : "mark",
+         "username2" : "mari"
+      },
+      {
+         "mesaj" : "buna!",
+         "username1" : "andrada",
+         "username2" : "mark"
+      },
+
+      {
+         "mesaj" : "pa ",
+         "username1" : "andrada",
+         "username2" : "mari"
+      },
+      {
+         "mesaj" : "bravo",
+         "username1" : "andrada",
+         "username2" : "mark"
+      },
+      {
+         "mesaj" : "buna ",
+         "username1" : "mari",
+         "username2" : "andrada"
+      },
+      {
+         "mesaj" : "ce faci?",
+         "username1" : "mari",
+         "username2" : "andrada"
+      },
+      {
+         "mesaj" : "esti bine?",
+         "username1" : "mari",
+         "username2" : "andrada"
+      },
+      {
+         "mesaj" : "buna, ce faci|?",
+         "username1" : "andrada",
+         "username2" : "mark"
+      },
+      {
+         "mesaj" : "bine,tu?",
+         "username1" : "mark",
+         "username2" : "andrada"
+      },
+
+      {
+         "mesaj" : "buna",
+         "username1" : "andrada",
+         "username2" : "mari"
+      }
+   ]
+}
